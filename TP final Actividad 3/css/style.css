@@ -1,0 +1,122 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: verdana;
+}
+
+body{
+	height:500px;
+}
+
+nav{
+	float: left;	
+}
+
+ul li{
+display: inline;
+
+}
+
+li a{
+	background-color:#588335;
+	color:white;
+	padding:2px;
+	text-decoration:none;	
+	
+}
+div{
+	text-align:center;
+}
+
+
+h1{	
+	padding-top:30px;
+	height:50px;
+	text-align:center;
+	background-color: #88b75b;
+	color: #FFF;
+}
+
+section{
+	margin-left: 20px;
+	margin-right: 20px;
+	height:580px;
+}
+h2{
+	margin-top:20px;
+	font-size: 20px;
+	margin-bottom:20px;
+}
+
+p{
+	margin-top:10px;
+	font-size: 14px;
+}
+
+.tour-dates{
+	height:250px;
+}
+footer{
+	height:30px;
+	text-align:center;
+	background-color: #88b75b;
+	color: #FFF;
+}
+
+footer p{
+	padding-top:5px;
+	
+}
+
+.social-media{
+	margin-top:5px;
+	float: left;
+	height:0px;
+}
+
+.social-media a{
+	color: white;
+}
+
+table{
+	border-spacing: 25px 0;
+	
+}
+
+th{
+	text-align:left;
+}
+
+h3{
+	padding-bottom:5px;
+	
+}
+
+.shop li a{
+	background-color:white;
+	color:black;
+	padding:2px;
+	text-decoration:underline;	
+	color: #588335;
+}
+
+.reminder{
+	font-size:10px;
+	color:grey;
+	
+}
+
+span{
+	font-weight:bold;
+}
+
+.register-form{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.feedback-form
+{
+	height:535px;
+	
+}
