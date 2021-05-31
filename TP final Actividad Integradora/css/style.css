@@ -1,0 +1,197 @@
+*{
+	margin:0;
+	padding:0;
+	font-family: poppins;
+}
+
+header{
+	width:100%;
+	background-color: #88b75b;
+}
+body{
+	height:500px;
+}
+
+ul li{
+	display: inline;
+
+}
+
+li a{
+	background-color:#588335;
+	color:white;
+	text-decoration:none;
+	border-radius:5px;
+	padding:0.5%;
+		
+}
+
+li a:hover{
+	background-color:#a8f06e;
+	color:black;
+}
+
+div{
+	text-align:center;
+}
+
+
+h1{	
+	padding-top:1%; 
+	height:10%; 
+	text-align:center;
+
+	color: #FFF;
+}
+
+section{
+	margin-left: 20px;
+	margin-right: 20px;
+	height:100%; 
+	margin-top:0%;
+}
+
+
+h2{
+	margin-top:1%;
+	font-size: 1.5em;
+	margin-bottom:1%;
+}
+
+p{
+	margin-top:1%;
+	font-size: 1em;
+}
+
+
+.tour-dates{
+	margin-left: 20px;
+	margin-right: 20px;
+	height:60%;
+}
+footer{
+	text-align:center;
+	background-color: #88b75b;
+	width:100%;
+	color: #FFF;
+	bottom:0;
+	position:fixed;
+}
+
+footer p {
+	margin:0.5%;
+	
+}
+
+.social-media{
+	margin-top:0.4%;
+	float: left;
+	height:0%;
+}
+
+.social-media a{
+	color: white;
+}
+
+table{
+	border-spacing: 2em 0;
+	
+}
+
+th{
+	text-align:left;
+}
+
+h3{
+	padding-bottom:0.5%;
+	
+}
+
+.stores li a{
+	background-color:white;
+	color:black;
+	padding:0.4%;
+	text-decoration:underline;	
+	color: #588335;
+}
+
+.stores li a:hover{
+	color:#d4c80b;
+}
+
+.reminder{
+	font-size:0.7em;
+	color:grey;
+	
+}
+
+span{
+	font-weight:bold;
+}
+
+.register-form{
+	margin-left: auto;
+	margin-right: auto;
+}
+
+.feedback-form
+{
+	height:50%;
+	
+}
+
+label, input{
+	font-size:1em;
+}
+
+input, select{
+	padding: 1vw;
+	margin: 1vw;
+	display: inline-block;
+	border: 1vw;
+	border-radius: 0.4em;
+	box-sizing:border-box;
+}
+
+input[type=submit]{
+	width:100%;
+	background-color: #88b75b;
+	color: white;
+	padding: 1em 1.1em;
+	margin: 0.5em 0;
+	border: none;
+	border-radius: 0.25em;
+	cursor: pointer;
+	opacity:80%;
+}
+
+input[type=submit]:hover{
+background-color:#588335
+}
+
+.form-registration{
+	border-radius:5px;
+	background-color: #c7c7c5;
+	padding:2%;
+	margin: 1% 20%;
+	
+}
+
+textarea{
+	width:60%;
+}
+
+img{
+		width:30%;
+}
+
+article img{
+	padding:0 3%;
+	width:25%;
+}
+
+.flex-container{
+	display:flex;
+	flex-wrap: wrap;
+}
+
